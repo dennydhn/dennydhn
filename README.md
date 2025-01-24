@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile 👋
+# Denny Ramadhan
 
 ## About Me
 A junior software developer with a background in geophysics, currently contributing as a Research Assistant at the Geoseismal Research Center. Familiar with front-end and back-end web development, geophysical surveys, and data processing.
